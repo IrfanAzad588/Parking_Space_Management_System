@@ -1,2 +1,0 @@
-# Parking_Space_Management_System
-This is Parking_Space_Management_System
